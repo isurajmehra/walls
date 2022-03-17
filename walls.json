@@ -1,5 +1,117 @@
 [
   {
+    "name": "Stripe",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/stripe.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/stripe.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Stripe 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/stripe2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/stripe2.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Stripe 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/stripe3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/stripe3.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Stripe 4",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/stripe4.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/stripe4.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Stripe 5",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/stripe5.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/stripe5.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Shapes 1",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Shapes 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex2.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Shapes 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex3.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Shapes 4",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex4.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex4.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Shapes 5",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex5.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex5.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Shapes 6",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex6.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex6.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Shapes 7",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex7.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex7.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Shapes 8",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/arrow.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/arrow.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Shapes 9",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/arrow2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/arrow2.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Shapes 10",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/arrow3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/arrow3.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Shapes 11",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/arrow4.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/arrow4.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
     "name": "Flower 1",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flower.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flower.png",
