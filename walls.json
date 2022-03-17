@@ -1,5 +1,40 @@
 [
   {
+    "name": "Circular 1",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/circular.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/circular.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Circular 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/circular2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/circular2.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Circular 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/circular3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/circular3.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Circular 4",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/circular4.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/circular4.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Circular 5",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/circular5.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/circular5.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
     "name": "Stripe",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/stripe.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/stripe.png",
