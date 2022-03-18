@@ -1,5 +1,47 @@
 [
   {
+    "name": "Flora 1",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flora.jpeg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flora.jpeg",
+    "collections": "Flora",
+    "author": "lazr04"
+  },
+  {
+    "name": "Flora 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flora2.jpeg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flora2.jpeg",
+    "collections": "Flora",
+    "author": "lazr04"
+  },
+  {
+    "name": "Flora 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flora3.jpeg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flora3.jpeg",
+    "collections": "Flora",
+    "author": "lazr04"
+  },
+  {
+    "name": "Flora 4",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flora4.jpeg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flora4.jpeg",
+    "collections": "Flora",
+    "author": "lazr04"
+  },
+  {
+    "name": "Flora 5",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flora5.jpeg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flora5.jpeg",
+    "collections": "Flora",
+    "author": "lazr04"
+  },
+  {
+    "name": "Flora 6",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flora6.jpeg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flora6.jpeg",
+    "collections": "Flora",
+    "author": "lazr04"
+  },
+  {
     "name": "Circular 1",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/circular.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/circular.png",
