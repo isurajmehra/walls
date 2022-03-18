@@ -1,5 +1,40 @@
 [
   {
+    "name": "Aesthetic 1",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/aesthetic.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/aesthetic.png",
+    "collections": "Aesthetic",
+    "author": "lazr04"
+  },
+  {
+    "name": "Aesthetic 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/aesthetic2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/aesthetic2.png",
+    "collections": "Aesthetic",
+    "author": "lazr04"
+  },
+  {
+    "name": "Aesthetic 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/aesthetic3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/aesthetic3.png",
+    "collections": "Aesthetic",
+    "author": "lazr04"
+  },
+  {
+    "name": "Aesthetic 4",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/aesthetic4.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/aesthetic4.png",
+    "collections": "Aesthetic",
+    "author": "lazr04"
+  },
+  {
+    "name": "Aesthetic 5",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/vaporwave.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/vaporwave.png",
+    "collections": "Aesthetic",
+    "author": "lazr04"
+  },
+  {
     "name": "Flora 1",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flora.jpeg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flora.jpg",
