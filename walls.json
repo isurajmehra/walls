@@ -1,5 +1,40 @@
 [
   {
+    "name": "Crystal Flower",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/crystal_flower.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/crystal_flower.png",
+    "collections": "Crystal",
+    "author": "lazr04"
+  },
+  {
+    "name": "Crystal Leaf",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/crystal_leaf.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/crystal_leaf.png",
+    "collections": "Crystal",
+    "author": "lazr04"
+  },
+  {
+    "name": "Flora 6",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flora6.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flora6.png",
+    "collections": "Flora",
+    "author": "lazr04"
+  },
+  {
+    "name": "Flora 7",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flora7.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flora7.png",
+    "collections": "Flora",
+    "author": "lazr04"
+  },
+  {
+    "name": "Flora 8",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flora8.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flora8.png",
+    "collections": "Flora",
+    "author": "lazr04"
+  },
+  {
     "name": "Aesthetic 1",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/aesthetic.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/aesthetic.png",
