@@ -1,5 +1,61 @@
 [
   {
+    "name": "Pill 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pill2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pill2.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Pill",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pill.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pill.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Sunrise",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/sunrise.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/sunrise.png",
+    "collections": "Gradient",
+    "author": "lazr04"
+  },
+  {
+    "name": "Hexagon",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hexagon.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hexagon.png",
+    "collections": "Aesthetic",
+    "author": "lazr04"
+  },
+  {
+    "name": "Chessboard",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/chessboard.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/chessboard.png",
+    "collections": "Aesthetic",
+    "author": "lazr04"
+  },
+  {
+    "name": "Crystal Space",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/crystal_space.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/crystal_space.png",
+    "collections": "Crystal",
+    "author": "lazr04"
+  },
+   {
+    "name": "Crystal Earth",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/crystal_earth.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/crystal_earth.png",
+    "collections": "Crystal",
+    "author": "lazr04"
+  },
+  {
+    "name": "Waves",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
     "name": "Material You Pink",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/material_you.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/material_you.png",
