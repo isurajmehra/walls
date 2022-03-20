@@ -1,5 +1,40 @@
 [
   {
+    "name": "Material You Pink",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/material_you.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/material_you.png",
+    "collections": "Material",
+    "author": "lazr04"
+  },
+  {
+    "name": "Material You Orange",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/material_you_orange.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/material_you_orange.png",
+    "collections": "Material",
+    "author": "lazr04"
+  },
+  {
+    "name": "Material You BLue",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/material_you_blue.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/material_you_blue.png",
+    "collections": "Material",
+    "author": "lazr04"
+  },
+  {
+    "name": "Sky",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/sky.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/sky.png",
+    "collections": "Material",
+    "author": "lazr04"
+  },
+  {
+    "name": "Sky 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/sky2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/sky2.png",
+    "collections": "Material",
+    "author": "lazr04"
+  },
+  {
     "name": "Crystal Flower",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/crystal_flower.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/crystal_flower.png",
@@ -38,28 +73,28 @@
     "name": "Aesthetic 1",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/aesthetic.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/aesthetic.png",
-    "collections": "Aesthetic",
+    "collections": "Material",
     "author": "lazr04"
   },
   {
     "name": "Aesthetic 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/aesthetic2.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/aesthetic2.png",
-    "collections": "Aesthetic",
+    "collections": "Material",
     "author": "lazr04"
   },
   {
     "name": "Aesthetic 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/aesthetic3.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/aesthetic3.png",
-    "collections": "Aesthetic",
+    "collections": "Material",
     "author": "lazr04"
   },
   {
     "name": "Aesthetic 4",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/aesthetic4.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/aesthetic4.png",
-    "collections": "Aesthetic",
+    "collections": "Material",
     "author": "lazr04"
   },
   {
@@ -353,63 +388,63 @@
     "name": "Wavy 1",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy1.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy1.png",
-    "collections": "Wavy",
+    "collections": "Amoled",
     "author": "lazr04"
   },
   {
     "name": "Wavy 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy2.png",
-    "collections": "Wavy",
+    "collections": "Amoled",
     "author": "lazr04"
   },
   {
     "name": "Wavy 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy3.png",
-    "collections": "Wavy",
+    "collections": "Amoled",
     "author": "lazr04"
   },
   {
     "name": "Wavy 4",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy4.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy4.png",
-    "collections": "Wavy",
+    "collections": "Amoled",
     "author": "lazr04"
   },
   {
     "name": "Wavy 5",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy5.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy5.png",
-    "collections": "Wavy",
+    "collections": "Amoled",
     "author": "lazr04"
   },
   {
     "name": "Wavy 6",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy6.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy6.png",
-    "collections": "Wavy",
+    "collections": "Amoled",
     "author": "lazr04"
   },
   {
     "name": "Wavy 7",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy7.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy7.png",
-    "collections": "Wavy",
+    "collections": "Amoled",
     "author": "lazr04"
   },
   {
     "name": "Wavy 8",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy8.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy8.png",
-    "collections": "Wavy",
+    "collections": "Amoled",
     "author": "lazr04"
   },
   {
     "name": "Wavy 9",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy9.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy9.png",
-    "collections": "Wavy",
+    "collections": "Amoled",
     "author": "lazr04"
   },
   {
