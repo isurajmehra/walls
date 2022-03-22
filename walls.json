@@ -1,5 +1,68 @@
 [
   {
+    "name": "Pixel 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pixel3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pixel3.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Pixel 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pixel2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pixel2.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Pixel",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pixel.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pixel.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Hex Pattern 6",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex_pattern6.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex_pattern6.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Hex Pattern 5",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex_pattern5.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex_pattern5.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Hex Pattern 4",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex_pattern4.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex_pattern4.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Hex Pattern 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex_pattern3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex_pattern3.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Hex Pattern 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex_pattern2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex_pattern2.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Hex Pattern",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hex_pattern.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hex_pattern.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
     "name": "Pill 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pill2.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pill2.png",
