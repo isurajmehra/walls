@@ -238,9 +238,23 @@
     "author": "lazr04"
   },
   {
-    "name": "Material You BLue",
+    "name": "Material You Blue",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/material_you_blue.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/material_you_blue.png",
+    "collections": "Material",
+    "author": "lazr04"
+  },
+{
+    "name": "Material You Green 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/material_you_green_new2.jpeg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/material_you_green_new2.png",
+    "collections": "Material",
+    "author": "lazr04"
+  },
+{
+    "name": "Material You Green",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/material_you_green_new.jpeg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/material_you_green_new.png",
     "collections": "Material",
     "author": "lazr04"
   },
@@ -612,13 +626,6 @@
     "name": "Wavy 1",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy1.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy1.png",
-    "collections": "Amoled",
-    "author": "lazr04"
-  },
-  {
-    "name": "Wavy 2",
-    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/wavy2.jpg",
-    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/wavy2.png",
     "collections": "Amoled",
     "author": "lazr04"
   },
