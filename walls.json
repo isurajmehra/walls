@@ -1,5 +1,40 @@
 [
   {
+    "name": "Pill 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pill3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pill3.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Pill 4",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pill4.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pill4.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Pill 5",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pill5.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pill5.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Slit",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/slit.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/slit.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
+    "name": "Slit 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/slit2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/slit2.png",
+    "collections": "Shapes",
+    "author": "lazr04"
+  },
+  {
     "name": "Hallway 5",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hallway5.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hallway5.png",
