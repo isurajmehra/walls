@@ -1,5 +1,47 @@
 [
   {
+    "name": "Mountains",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/mountains.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/mountains.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Rope 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/rope3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/rope3.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Rope 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/rope2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/rope2.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Rope",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/rope.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/rope.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Amoled Flower 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/amoledflower2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/amoledflower2.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Amoled Flower",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/amoledflower.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/amoledflower.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
     "name": "Inside The Box",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/InsideTheBox.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/InsideTheBox.png",
