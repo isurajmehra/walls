@@ -1,5 +1,40 @@
 [
   {
+    "name": "Fire",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/fire.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/fire.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Ice",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/ice.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/ice.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Grass",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/grass.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/grass.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Sun",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/sun.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/sun.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Rose",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/rose.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/rose.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
     "name": "Pill 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pill3.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pill3.png",
