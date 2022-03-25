@@ -1,5 +1,75 @@
 [
   {
+    "name": "Inside The Box",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/InsideTheBox.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/InsideTheBox.png",
+    "collections": "Shapes",
+    "author": "Digital Ali"
+  },
+  {
+    "name": "Love No Love",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/LoveNoLove.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/LoveNoLove.png",
+    "collections": "Aesthetic",
+    "author": "Digital Ali"
+  },
+  {
+    "name": "Scribbles",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/Scribbles.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/Scribbles.png",
+    "collections": "Aesthetic",
+    "author": "Digital Ali"
+  },
+  {
+    "name": "Neon Sunset",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/NeonSunset.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/NeonSunset.png",
+    "collections": "Gradient",
+    "author": "Digital Ali"
+  },
+  {
+    "name": "Beach Sunset",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/BeachSunset.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/BeachSunset.png",
+    "collections": "Gradient",
+    "author": "Digital Ali"
+  },
+  {
+    "name": "Circles",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/circle.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/circle.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Flame",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/flame.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/flame.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Radio 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/radio3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/radio3.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Radio 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/radio2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/radio2.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Radio",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/radio.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/radio.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
     "name": "Fire",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/fire.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/fire.png",
