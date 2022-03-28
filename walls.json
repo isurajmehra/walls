@@ -1,5 +1,19 @@
 [
   {
+    "name": "Amoled Forest",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/amoled_forest.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/amoled_forest.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Aesthetic 5",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/aesthetic5.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/aesthetic5.png",
+    "collections": "Aesthetic",
+    "author": "lazr04"
+  },
+  {
     "name": "BT21 Van",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bt21_van.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bt21_van.png",
