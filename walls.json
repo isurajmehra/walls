@@ -1,5 +1,33 @@
 [
   {
+    "name": "BT21 Van",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bt21_van.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bt21_van.png",
+    "collections": "Characters",
+    "author": "Jeremiah Walter"
+  },
+  {
+    "name": "BT21 Shooky",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bt21_shooky.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bt21_shooky.png",
+    "collections": "Characters",
+    "author": "Jeremiah Walter"
+  },
+  {
+    "name": "BT21 RJ",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bt21_rj.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bt21_rj.png",
+    "collections": "Characters",
+    "author": "Jeremiah Walter"
+  },
+  {
+    "name": "BT21 Chimmy",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bt21_chimmy.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bt21_chimmy.png",
+    "collections": "Characters",
+    "author": "Jeremiah Walter"
+  },
+  {
     "name": "Oranges",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/oranges.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/oranges.png",
@@ -612,7 +640,7 @@
     "name": "Captin 'Murica",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/murica.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/murica.png",
-    "collections": "Abstract",
+    "collections": "Characters",
     "author": "Sarthak Patil"
   },
     {
