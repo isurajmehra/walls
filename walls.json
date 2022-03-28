@@ -1,689 +1,871 @@
 [
   {
+    "name": "Oranges",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/oranges.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/oranges.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "Candy Clouds",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/candyclouds.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/candyclouds.png",
+    "collections": "Aesthetic",
+    "author": "lazr04"
+  },
+  {
+    "name": "Glitch",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/glitch.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/glitch.png",
+    "collections": "Aesthetic",
+    "author": "lazr04"
+  },
+  {
+    "name": "Grainy",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/grainy.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/grainy.png",
+    "collections": "Aesthetic",
+    "author": "lazr04"
+  },
+    {
+    "name": "Pot 4",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pot4.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pot4.png",
+    "collections": "Flora",
+    "author": "justnewwalls"
+  },
+    {
+    "name": "Pot 5",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pot5.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pot5.png",
+    "collections": "Flora",
+    "author": "justnewwalls"
+  },
+   {
+    "name": "Pot 6",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/IMG_5239.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/IMG_5239.png",
+    "collections": "Flora",
+    "author": "justnewwalls"
+  },
+   {
+    "name": "Magnolia",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/magnolia.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/magnolia.png",
+    "collections": "Absctract",
+    "author": "justnewwalls"
+  },
+   {
+    "name": "Gel",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/gel.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/gel.png",
+    "collections": "Absctract",
+    "author": "justnewwalls"
+  },
+  {
+    "name": "Desert",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/desert.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/desert.png",
+    "collections": "Absctract",
+    "author": "justnewwalls"
+  },
+   {
+    "name": "Blobs",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/blobs.jpg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/blobs.png",
+    "collections": "Absctract",
+    "author": "justnewwalls"
+  },
+     {
+    "name": "Tubes",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/tubes_amoled.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/tubes_amoled.png",
+    "collections": "Amoled",
+    "author": "Galahad WPX"
+  },
+   {
+    "name": "Fluid",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/fluid.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/fluid.png",
+    "collections": "Amoled",
+    "author": "Galahad WPX"
+  },
+  {
+    "name": "Fluid 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/fluid2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/fluid2.png",
+    "collections": "Amoled",
+    "author": "Galahad WPX"
+  },
+    {
+    "name": "Poker 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/sand.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/sand.png",
+    "collections": "Material",
+    "author": "Galahad WPX"
+  },
+  {
+    "name": "Poker Dark",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/poker _dark.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/poker _dark.png",
+    "collections": "Material",
+    "author": "Galahad WPX"
+  },
+  {
+    "name": "Poker",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/poker.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/poker.png",
+    "collections": "Material",
+    "author": "Galahad WPX"
+  },
+    {
+    "name": "Texture",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/texture_MY.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/texture_MY.png",
+    "collections": "Material",
+    "author": "Galahad WPX"
+  },
+  {
+    "name": "Abstract You Dark",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/abstract_you_dark.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/abstract_you_dark.png",
+    "collections": "Material",
+    "author": "Galahad WPX"
+  },
+    {
+    "name": "Abstract You",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/abstract_you.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/abstract_you.png",
+    "collections": "Material",
+    "author": "Galahad WPX"
+  },
+  {
+    "name": "Floral",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/floral.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/floral.png",
+    "collections": "Flora",
+    "author": "lazr04"
+  },
+  {
+    "name": "Pipeline",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pipeline.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pipeline.png",
+    "collections": "Amoled",
+    "author": "lazr04"
+  },
+  {
+    "name": "My Floral 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/my_floral2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/my_floral2.png",
+    "collections": "Flora",
+    "author": "Galahad WPX"
+  },
+  {
+    "name": "My Floral 2 Dark",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/my_floral_dark2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/my_floral_dark2.png",
+    "collections": "Flora",
+    "author": "Galahad WPX"
+  },
+  {
+    "name": "My Floral",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/my_floral.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/my_floral.png",
+    "collections": "Flora",
+    "author": "Galahad WPX"
+  },
+  {
+    "name": "My Floral Dark",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/my_floral_dark.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/my_floral_dark.png",
+    "collections": "Flora",
+    "author": "Galahad WPX"
+  },
+  {
     "name": "Stars",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/stars.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/stars.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Violet Orange",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/violetorange.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/violetorange.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "Snow 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/snow2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/snow2.png",
     "collections": "Holiday",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
     {
     "name": "Snow",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/snow.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/snow.png",
     "collections": "Holiday",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "Olive 4",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/olive4.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/olive4.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Olive 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/olive3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/olive3.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Olive 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/olive2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/olive2.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Olive",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/olive.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/olive.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Lime Orange",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/limeorange.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/limeorange.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "Glitchy Flower",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/glitchyflower.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/glitchyflower.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Summer",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/summer.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/summer.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Squid 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/squid3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/squid3.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Squid 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/squid2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/squid2.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Sick Hills",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/sickhills.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/sickhills.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Sakura",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/sakura.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/sakura.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Pot",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pot.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pot.png",
     "collections": "Flora",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "Planets",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/planets.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/planets.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Pebble 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pebble3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pebble3.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Pebble 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pebble2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pebble2.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Pebble",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pebble.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pebble.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Hills",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/hills.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/hills.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Green Zebra",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/green_zebra.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/green_zebra.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Forest",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/forest.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/forest.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Earth",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/earth.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/earth.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Color Splash",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/colorsplash.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/colorsplash.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Cloth",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/cloth.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/cloth.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Calm Hills",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/calmhills.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/calmhills.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "Blur Dots 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/blurdots2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/blurdots2.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Blur Dots",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/blurdots.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/blurdots.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Blur",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/blur.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/blur.png",
     "collections": "Gradient",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Another Hill 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/anotherhill3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/anotherhill3.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Another Hill 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/anotherhill2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/anotherhill2.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Another Hill",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/anotherhill.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/anotherhill.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Another Hill 9",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/anotherhill9.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/anotherhill9.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "OG Material 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/ogmaterial3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/ogmaterial3.png",
     "collections": "Material",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "OG Material 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/ogmaterial2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/ogmaterial2.png",
     "collections": "Material",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "OG Material",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/ogmaterial.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/ogmaterial.png",
     "collections": "Material",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Another Hill 8",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/anotherhill8.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/anotherhill8.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Another Hill 6",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/anotherhill6.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/anotherhill6.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Another Hill 5",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/anotherhill5.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/anotherhill5.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Another Hill 4",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/anotherhill4.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/anotherhill4.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Amoled Hill 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/amoledhill3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/amoledhill3.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Twirly 6",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/twirly6.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/twirly6.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Twirly 5",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/twirly5.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/twirly5.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Twirly 4",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/twirly4.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/twirly4.png",
     "collections": "Absctract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Summer 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/summer2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/summer2.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Amoled Hill 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/amoledhill2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/amoledhill2.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "Worms 6",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/worms6.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/worms6.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "Worms 5",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/worms5.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/worms5.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "Worms 4",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/worms4.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/worms4.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Bird",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bird.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bird.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Blue Hill",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bluehill.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bluehill.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Blue Hill",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bluehill.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bluehill.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Amoled Hill",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/amoledhill.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/amoledhill.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Rainy City",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/rainycity.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/rainycity.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Twirly",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/twirly.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/twirly.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Twirly 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/twirly3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/twirly3.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Twirly 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/twirly2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/twirly2.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Blue City",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bluecity.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bluecity.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Pixel Shapes 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pixelshapes3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pixelshapes3.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "Captin 'Murica",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/murica.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/murica.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
     {
     "name": "Curve",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/curve.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/curve.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
     {
     "name": "Splash",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/splash.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/splash.png",
     "collections": "Gradient",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
     {
     "name": "Curve 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/curve3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/curve3.png",
     "collections": "Gradient",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Curve 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/curve2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/curve2.png",
     "collections": "Gradient",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Snowflakes 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/snowflakes3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/snowflakes3.png",
     "collections": "Holiday",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Snowflakes 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/snowflakes2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/snowflakes2.png",
     "collections": "Holiday",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Snowflakes",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/snowflakes.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/snowflakes.png",
     "collections": "Holiday",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Snowflakes 6",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/snowflakes6.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/snowflakes6.png",
     "collections": "Holiday",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Snowflakes 5",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/snowflakes5.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/snowflakes5.png",
     "collections": "Holiday",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Snowflakes 4",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/snowflakes4.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/snowflakes4.png",
     "collections": "Holiday",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Branch 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/branch2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/branch2.png",
     "collections": "Flora",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Branch",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/branch.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/branch.png",
     "collections": "Flora",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Dandelion 5",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/dandelion5.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/dandelion5.png",
     "collections": "Flora",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Dandelion 4",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/dandelion4.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/dandelion4.png",
     "collections": "Flora",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Dandelion 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/dandelion3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/dandelion3.png",
     "collections": "Flora",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Dandelion 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/dandelion2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/dandelion2.png",
     "collections": "Flora",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Dandelion",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/dandelion.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/dandelion.png",
     "collections": "Flora",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Worms 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/worms3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/worms3.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Worms 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/worms2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/worms2.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Worms",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/worms.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/worms.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Monte",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/monte.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/monte.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Monte 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/monte2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/monte2.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "World",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/world.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/world.png",
     "collections": "Amoled",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Minimal",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/minimal.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/minimal.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Zen",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/zen.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/zen.png",
     "collections": "Flora",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Pot 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pot2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pot2.png",
     "collections": "Flora",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Pot 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pot3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pot3.png",
     "collections": "Flora",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Pixel Shapes 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pixelshapes2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pixelshapes2.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Pixel Shapes",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/pixelshapes.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/pixelshapes.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Blur 4",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/blur4.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/blur4.png",
     "collections": "Gradient",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Blur 3",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/blur3.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/blur3.png",
     "collections": "Gradient",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Blur 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/blur2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/blur2.png",
     "collections": "Gradient",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Starry Hills",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/starryhills.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/starryhills.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Swirly 2",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/swirly2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/swirly2.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Swirly",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/swirly.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/swirly.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
    {
     "name": "Angular",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/angular.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/angular.png",
     "collections": "Shapes",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Swirl",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/swirl.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/swirl.png",
     "collections": "Abstract",
-    "author": "Wallery Walls"
+    "author": "Sarthak Patil"
   },
   {
     "name": "Material U 9",
