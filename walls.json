@@ -1,5 +1,19 @@
 [
       {
+    "name": "Face Unlock",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/faceunlock.jpg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/faceunlock.png",
+    "collections": "Aesthetic",
+    "author": "popleble"
+  },      
+{
+    "name": "Spring 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/spring3.jpeg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/spring3.png",
+    "collections": "Flora",
+    "author": "popleble"
+  },
+      {
     "name": "Spring 5",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/spring5.jpeg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/spring5.png",
