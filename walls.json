@@ -88,12 +88,19 @@
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/shapes2.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/shapes2.png",
     "collections": "Shapes",
-    "author": "Digital Ali"
+    "author": "justnewwalls"
   },
   {
     "name": "Shapes 1",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/shapes1.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/shapes1.png",
+    "collections": "Shapes",
+    "author": "Digital Ali"
+  },
+  {
+    "name": "Shapes",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/shapes.jpg",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/shapes.png",
     "collections": "Shapes",
     "author": "Digital Ali"
   },
