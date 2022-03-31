@@ -1,5 +1,85 @@
 [
       {
+    "name": "BT21 Koya",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bt21_koya.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bt21_koya.png",
+    "collections": "Characters",
+    "author": "iOSXPC",
+    "copyright": "© BIG HIT X LINE FRIENDS Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "BT21 Tata",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bt21_tata.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bt21_tata.png",
+    "collections": "Characters",
+    "author": "iOSXPC",
+    "copyright": "© BIG HIT X LINE FRIENDS Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "BT21 Mang",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/bt21_mang.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/bt21_mang.png",
+    "collections": "Characters",
+    "author": "iOSXPC",
+    "copyright": "© BIG HIT X LINE FRIENDS Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+       {
+    "name": "Floral Yellow Dark",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/floral_yellowdark.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/floral_yellowdark.png",
+    "collections": "Material",
+    "author": "Galahad WPX",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "Draw Material",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/draw_material.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/draw_material.png",
+    "collections": "Material",
+    "author": "Galahad WPX",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+            {
+    "name": "Gradient Ball",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/gradient_ball.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/gradient_ball.png",
+    "collections": "Amoled",
+    "author": "Galahad WPX",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "Blur Shapes",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/blur_shapes.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/blur_shapes.png",
+    "collections": "Abstract",
+    "author": "Galahad WPX",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "Rainbow Melts 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/rainbow_melts3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/rainbow_melts3.png",
+    "collections": "Amoled",
+    "author": "lazr04",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+     {
+    "name": "Rainbow Melts 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/rainbow_melts2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/rainbow_melts2.png",
+    "collections": "Amoled",
+    "author": "lazr04",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+            {
+    "name": "Rainbow Melts",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/rainbow_melts.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/rainbow_melts.png",
+    "collections": "Amoled",
+    "author": "lazr04",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
     "name": "Face Unlock",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/faceunlock.jpg",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/faceunlock.jpg",
