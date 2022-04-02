@@ -1,5 +1,93 @@
 [
       {
+    "name": "Spring 10",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/spring10.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/spring10.png",
+    "collections": "Flora",
+    "author": "lazr04",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "Spring 9",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/spring9.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/spring9.png",
+    "collections": "Flora",
+    "author": "lazr04",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "Spring 8",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/spring8.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/spring8.png",
+    "collections": "Flora",
+    "author": "lazr04",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "Spring 7",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/spring7.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/spring7.png",
+    "collections": "Flora",
+    "author": "lazr04",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "Spring 6",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/spring6.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/spring6.png",
+    "collections": "Flora",
+    "author": "lazr04",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "Material Leaf",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/material_leaf.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/material_leaf.png",
+    "collections": "Material",
+    "author": "Galahad WPX",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+       {
+    "name": "Minimal Leaf 6",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/minimal_leaf6.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/minimal_leaf6.png",
+    "collections": "Material",
+    "author": "Galahad WPX",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+       {
+    "name": "Minimal Leaf 5",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/minimal_leaf5.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/minimal_leaf5.png",
+    "collections": "Material",
+    "author": "Galahad WPX",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+       {
+    "name": "Minimal Leaf 4",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/minimal_leaf4.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/minimal_leaf4.png",
+    "collections": "Material",
+    "author": "Galahad WPX",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "Minimal Leaf 3",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/minimal_leaf3.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/minimal_leaf3.png",
+    "collections": "Material",
+    "author": "Galahad WPX",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
+    "name": "Minimal Leaf 2",
+    "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/minimal_leaf2.png",
+    "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/minimal_leaf2.png",
+    "collections": "Material",
+    "author": "Galahad WPX",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+  },
+      {
     "name": "Floral Sketch",
     "url": "https://raw.githubusercontent.com/lazrdev/walls/main/wallpapers/sketch_floral.png",
     "thumbnail":"https://raw.githubusercontent.com/lazrdev/walls/main/thumbnails/sketch_floral.png",
